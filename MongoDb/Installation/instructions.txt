@@ -1,0 +1,7 @@
+[url]
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-red-hat/
+
+[shell]
+https://docs.mongodb.com/manual/mongo/
+
+Note - mongodb-org-server-4.2.2-1.el7.x86_64.rpm is 48MB file size and does not allow upload on Github.(min size 25Mb)
